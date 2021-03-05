@@ -18,7 +18,7 @@
 
 - Just, Clone this repository -
 ```
-$ git clone https://github.com/Devshimitsu/PyQR.git
+$ git clone https://github.com/Devshimitsu/Convert_Text_To_Speech_in_Python.git
 ```
 
 - Change to cloned directory  -
@@ -26,7 +26,7 @@ $ git clone https://github.com/Devshimitsu/PyQR.git
 $ cd PyQR
 $ chmod +x *
 $ ./requirement.sh
-$ python3 PyQR.py
+$ python3 Text_to_Speech.py  
 ```
 
 
@@ -38,7 +38,7 @@ $ python3 PyQR.py
 
 - open cmd and type -
 ```
-python PyQR.py
+python Text_to_Speech.py
 ```
 
 
