@@ -23,7 +23,7 @@ $ git clone https://github.com/Devshimitsu/Convert_Text_To_Speech_in_Python.git
 
 - Change to cloned directory  -
 ```
-$ cd PyQR
+$ cd Convert_Text_To_Speech_in_Python
 $ chmod +x *
 $ ./requirement.sh
 $ python3 Text_to_Speech.py  
