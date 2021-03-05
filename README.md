@@ -46,7 +46,7 @@ python Text_to_Speech.py
 :: Workflow ::
 </h3>
 <p align="center">
-<img src="https://imgur.com/Ff0By5m.png"/>
+<img src="https://imgur.com/q3hskma.png"/>
 </p>
 
 
