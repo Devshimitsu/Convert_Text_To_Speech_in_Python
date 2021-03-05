@@ -1,4 +1,3 @@
-
 from gtts import gTTS 
   
 mytext = input("\nText That You Want To convert To Audio: ")
